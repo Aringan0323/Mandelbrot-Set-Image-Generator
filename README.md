@@ -6,10 +6,10 @@
 
 ## Requirements
 
-* You must have ***numpy*** in order to convert tensors to images
-* You must have an Nvidia graphics card and ***cuda 11.0 or higher*** in order to take advantage of the GPU acceleration
-* You must have ***tensorflow gpu*** installed, or in newer models of TF the gpu library is included
-* You should install ***numba*** if you are to use GPU acceleration. This is not absolutely necessary, but you may need 
+* You must have **numpy** in order to convert tensors to images
+* You must have an Nvidia graphics card and **cuda 11.0 or higher** in order to take advantage of the GPU acceleration
+* You must have **tensorflow gpu** installed, or in newer models of TF the gpu library is included
+* You should install **numba** if you are to use GPU acceleration. This is not absolutely necessary, but you may need 
 to clear your GPU memory if you use the program to generate multiple large images
 
 ## How to use
